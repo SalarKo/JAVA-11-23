@@ -1,7 +1,7 @@
 /* Program : Mini-Project: Random Pits
-Purpose : The purpose of this project is to implement and test a Java program that implements a
+Purpose: The purpose of this project is to implement and test a Java program that implements a
 single-player game where the player has to reach a goal location while avoiding randomly placed pits.
-Author: Kacper Leon Puzniak & Salar Komeyshi
+Author: Salar Komeyshi
 Date: 21/11/2023 */
 
 /* The Walkthrough
